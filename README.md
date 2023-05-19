@@ -1,2 +1,2 @@
 # SRM-BCA-DS--All-Question-Papers
-Here is the all previous year question papers of internal and external exam. 
+Here you will get all the previous year question papers of internal and external exam. 
